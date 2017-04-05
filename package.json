@@ -13,6 +13,14 @@
   "keywords": [],
   "author": "Daniel Egan <daniel.egan@live.com> (http://TheSociableGeek.com)",
   "license": "MIT",
+  "dependencies": {
+    "botauth": "^0.2.10",
+    "botbuilder": "^3.4.4",
+    "envx": "^1.0.0",
+    "passport": "^0.3.2",
+    "passport-pinterest": "^1.0.0",
+    "restify": "^4.1.1"
+  },
   "bugs": {
     "url": "https://github.com/DanielEgan/mypinbot/issues"
   },
